@@ -159,8 +159,7 @@ cp .env.sample .env
 Configura tus claves dentro del archivo `.env`:
 
 ```ini
-MARVEL_PUBLIC_KEY=tu_public_key
-MARVEL_PRIVATE_KEY=tu_private_key
+SUPERHERO_TOKEN=tuTOKEN
 OPENAI_API_KEY=tu_openai_key
 ```
 
