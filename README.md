@@ -37,7 +37,6 @@ superhero-project/
 │   ├── filters.py                # Lógica de ranking y balance
 │   ├── search.py                 # Búsqueda de personajes
 │   ├── plots.py                  # Gráficas y visualización
-│   ├── api_marvel.py             # Consumo Marvel API (fase 4)
 │   ├── image_ai.py               # Generación de imágenes IA (opcional)
 │   └── app.py                    # Script maestro
 │
